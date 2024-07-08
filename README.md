@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Teresa Alves and I am a Software Enginner from Lisbon, Portugal 🇵🇹
+I am Teresa Alves and I am a Software Engineer from Lisbon, Portugal 🇵🇹
 
 I am an active contributor and volunteer for [As Raparigas do Codigo](https://raparigasdocodigo.pt/), a portuguese organization focused on the inclusion of women in the tech world.
 
