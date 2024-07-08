@@ -9,7 +9,7 @@ I am an active contributor and volunteer for [As Raparigas do Codigo](https://ra
 - 💬 Ask me about: Docker, Kubernetes, Observability, System Design
 - ❓ Non-technical stuff: Career Progression, Effective Communication, Diversity & Inclusion
 
-Feel free to add me on LinkedIn [here](https://www.linkedin.com/teresalves)
+Feel free to add me on LinkedIn [here](https://www.linkedin.com/in/teresalves)
 
 <!--
 **teresalves/teresalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
